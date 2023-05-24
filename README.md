@@ -1,4 +1,4 @@
-# web-cam-gaze-attractor
+# web-cam-gaze-attractor-8-LED
 Animates a neo-pixel ring to help remind you to look at the webcam when on a video call.
 
 This project drives an 8 led neo-pixel ring, animating the LEDs to keep your gaze towards your webcam - which you have the lens position in the centre of the ring. So, keep your eye on the lens and thus your audience, rather than staring at the screen and not making eye contaact. 
